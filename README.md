@@ -1,34 +1,37 @@
-# 👋 ¡Hola, soy Santiago Mendivil!  
+# 👋 Hi, I'm Santiago Mendivil!
 
-### 🚀 Desarrollador en formación | Estudiante de Ingeniería de Software  
-
----
-
-## 📌 Acerca de mí  
-
-Actualmente estoy estudiando **Ingeniería de Software**, donde me especializo en:  
-- **Desarrollo Web** con **Django** para el backend y **HTML/CSS**, **JavaScript** y **Bootstrap**  
-- **Bases de Datos** con **MySQL**, **SQLite** y **PostgresSQL**  
-- **Arquitectura de software** e ingeniería de requerimientos
-- **Administración y gestión** de proyectos de software.   
-
-Siempre estoy buscando aprender nuevas herramientas, mejorar mis habilidades y colaborar en proyectos en conjunto.  
+### 🚀 Developer in Training | Software Engineering Student  
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo  
+## 📌 About Me  
 
-- Patrones de diseño.  
-- Tecnologías cloud en **AWS**.  
-- Pruebas unitarias y de integración con **Pytest**.
-- Framework de Vue.js para frontend.
+I am currently studying **Software Engineering**, specializing in:  
+- **Web Development**: Django for the backend, along with HTML/CSS, JavaScript, and Bootstrap.  
+- **Databases**: Experience with MySQL, SQLite, and PostgreSQL.  
+- **Software Architecture** and requirements engineering.  
+- **Software Project Management and Administration**.  
 
----
-
-## 📬 Contáctame  
-
-- 📧 Email: [santiagomendivil1009@gmail.com](mailto:santiagomendivil1009@gmail.com)  
+> _I am always looking to learn new tools, improve my skills, and collaborate on projects._
 
 ---
 
-¡Gracias por visitar mi perfil! 😊  
+## 🌱 Currently Learning  
+
+🎯 **Design Patterns.**  
+☁️ **Cloud technologies with AWS.**  
+🛠️ **Unit and Integration Testing with Pytest.**  
+🌐 **Vue.js framework for frontend development.**  
+
+---
+
+## 📬 Contact Me  
+
+📧 **Email:** [santiagomendivil1009@gmail.com](mailto:santiagomendivil1009@gmail.com)  
+
+---
+
+> Thank you for visiting my profile! 😊  
+
+---
+

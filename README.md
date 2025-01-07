@@ -6,13 +6,15 @@
 
 ## 📌 About Me  
 
-I am currently studying **Software Engineering**, specializing in:  
-- **Web Development**: Django for the backend, along with HTML/CSS, JavaScript, and Bootstrap.  
-- **Databases**: Experience with MySQL, SQLite, and PostgreSQL.  
-- **Software Architecture** and requirements engineering.  
-- **Software Project Management and Administration**.  
+I am a passionate **Software Engineering** student, focusing on creating robust, efficient, and scalable systems. My expertise includes:  
 
-> _I am always looking to learn new tools, improve my skills, and collaborate on projects._
+- **Backend Development:** Proficient in Django and currently enhancing my skills with the **IBM Backend Development Certification** and **Django REST Framework** for building APIs.
+- **Web Development:** Skilled in modern technologies like HTML/CSS, JavaScript, and Bootstrap to design responsive and user-friendly interfaces.
+- **Database Management:** Experience with relational databases such as MySQL, SQLite, and PostgreSQL, ensuring data integrity and optimal performance.
+- **Software Architecture:** Adept at analyzing requirements, designing system architectures, and implementing engineering principles to solve complex problems.
+- **Project Management:** Competent in planning, executing, and delivering software projects using best practices and agile methodologies.
+
+> _I am dedicated to advancing my knowledge and contributing to impactful software engineering projects._
 
 ---
 
@@ -20,8 +22,6 @@ I am currently studying **Software Engineering**, specializing in:
 
 🎯 **Design Patterns.**  
 ☁️ **Cloud technologies with AWS.**  
-🛠️ **Unit and Integration Testing with Pytest.**  
-🌐 **Vue.js framework for frontend development.**  
 
 ---
 
@@ -34,4 +34,5 @@ I am currently studying **Software Engineering**, specializing in:
 > Thank you for visiting my profile! 😊  
 
 ---
+
 
